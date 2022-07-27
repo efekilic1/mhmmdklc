@@ -35,6 +35,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+  <img style="margin: 10px" src="https://miro.medium.com/max/1200/0*o30pABZyehcBLKip.png" alt="C" height="50" />  
+
 
  
 </div>

@@ -9,7 +9,6 @@
 - 🍁 I’m interested in .NET, OOP and Microservices 
   
 
-- 🌱 I’m currently learning 
   
 
 <br/>  

@@ -6,10 +6,10 @@
 ### <div align="center">I'm Muhammed ,  back-end developer 👨‍💻 </div>  
   
 
-- 🍁 I’m interested in C# and OOP  
+- 🍁 I’m interested in .NET, OOP and Microservices 
   
 
-- 🌱 I’m currently learning .NET   
+- 🌱 I’m currently learning 
   
 
 <br/>  
